@@ -25,3 +25,15 @@
       <Zip>85743</Zip>
     </Address>
   </NationalPark>
+  <NationalPark>
+    <Name>Yellow Stone</Name>
+    <Phone>307-344-7381</Phone>
+    <Address NearestAirport="Yellowstone">
+      <Number>114</Number>
+      <Street> Albright Ave</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
