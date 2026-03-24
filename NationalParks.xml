@@ -13,3 +13,15 @@
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>Saguaro</Name>
+    <Phone>520-733-5153</Phone>
+    <Phone>520-733-5158</Phone>
+    <Address NearestAirport="Tuscon">
+      <Number>2700</Number>
+      <Street>North Kinney Road</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85743</Zip>
+    </Address>
+  </NationalPark>
