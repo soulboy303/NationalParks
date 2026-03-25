@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -17,7 +17,7 @@
     <Name>Saguaro</Name>
     <Phone>520-733-5153</Phone>
     <Phone>520-733-5158</Phone>
-    <Address NearestAirport="Tuscon">
+    <Address>
       <Number>2700</Number>
       <Street>North Kinney Road</Street>
       <City>Tucson</City>
@@ -61,7 +61,6 @@
   <NationalPark Rating="4.8">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
-    <Phone>406-888-5756</Phone>
     <Address NearestAirport="Glacier">
       <Number>642</Number>
       <Street>Government Loop</Street>
@@ -95,6 +94,7 @@
   </NationalPark>
   <NationalPark>
     <Name>Yosemite</Name>
+    <Name>Grand Yosemite</Name>
     <Phone>209-372-0200</Phone>
     <Address NearestAirport = "Fresno">
       <Number>9035</Number>
@@ -102,7 +102,6 @@
       <City>Yosemite Valley</City>
       <State>CA</State>
       <Zip>95389</Zip>
-    </Address>
   </NationalPark>
   <NationalPark Rating = "4.9">
     <Name>Grand Teton</Name>
