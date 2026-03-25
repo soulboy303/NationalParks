@@ -94,14 +94,14 @@
     </Address>
   </NationalPark>
   <NationalPark>
-    <Name>Yellow Stone</Name>
-    <Phone>307-344-7381</Phone>
-    <Address NearestAirport="Yellowstone">
-      <Number>114</Number>
-      <Street> Albright Ave</Street>
-      <City>Yellowstone National Park</City>
-      <State>WY</State>
-      <Zip>82190</Zip>
+    <Name>Yosemite</Name>
+    <Phone>209-372-0200</Phone>
+    <Address NearestAirport = "Fresno">
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
     </Address>
   </NationalPark>
   <NationalPark>
