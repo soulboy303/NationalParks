@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Address NearestAirport="Flagstaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>Saguaro</Name>
+    <Phone>520-733-5153</Phone>
+    <Phone>520-733-5158</Phone>
