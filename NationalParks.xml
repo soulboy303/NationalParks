@@ -104,26 +104,26 @@
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
-  <NationalPark>
-    <Name>Yellow Stone</Name>
-    <Phone>307-344-7381</Phone>
-    <Address NearestAirport="Yellowstone">
-      <Number>114</Number>
-      <Street> Albright Ave</Street>
-      <City>Yellowstone National Park</City>
+  <NationalPark Rating = "4.9">
+    <Name>Grand Teton</Name>
+    <Phone>307-739-3399</Phone>
+    <Address NearestAirport="Jackson Hole">
+      <Number>103</Number>
+      <Street>Headquarters Loops</Street>
+      <City>Moose</City>
       <State>WY</State>
-      <Zip>82190</Zip>
+      <Zip>83012</Zip>
     </Address>
   </NationalPark>
   <NationalPark>
-    <Name>Yellow Stone</Name>
-    <Phone>307-344-7381</Phone>
-    <Address NearestAirport="Yellowstone">
-      <Number>114</Number>
-      <Street> Albright Ave</Street>
-      <City>Yellowstone National Park</City>
-      <State>WY</State>
-      <Zip>82190</Zip>
+    <Name>Olympic</Name>
+    <Phone>360-565-3130</Phone>
+    <Address NearestAirport="Seattle–Tacoma">
+      <Number>3002</Number>
+      <Street>Mt Angeles Road</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
     </Address>
   </NationalPark>
 
