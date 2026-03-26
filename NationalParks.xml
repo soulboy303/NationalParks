@@ -118,7 +118,7 @@
   <NationalPark>
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
-    <Address NearestAirport="Seattle–Tacoma">
+    <Address NearestAirport="Seattle Tacoma">
       <Number>3002</Number>
       <Street>Mt Angeles Road</Street>
       <City>Port Angeles</City>
