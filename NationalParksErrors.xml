@@ -102,6 +102,7 @@
       <City>Yosemite Valley</City>
       <State>CA</State>
       <Zip>95389</Zip>
+    </Address>
   </NationalPark>
   <NationalPark Rating = "4.9">
     <Name>Grand Teton</Name>
