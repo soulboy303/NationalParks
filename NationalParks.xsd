@@ -2,13 +2,16 @@
 
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <xsd:complexType name="NationalParks">
+  <xsd:element name="NationalParks">
+    <xsd:complexType>
       <xsd:sequence>
-          <xsd:complexType name = "NationalPark" maxOccurs="unbounded">
+        <xsd:element name = "NationalPark" maxOccurs="unbounded">
+          <xsd:complexType>
             <xsd:sequence>
               <xsd:element name = "Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
               <xsd:element name = "Phone" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
-                <xsd:complexType name = "Address">
+              <xsd:element name = "Address">
+                <xsd:complexType>
                   <xsd:sequence>
                     <xsd:element name = "Number" type="xsd:integer" minOccurs="1" maxOccurs="1"/>
                     <xsd:element name = "Street" type="xsd:string" minOccurs="1" maxOccurs="1"/>
@@ -18,12 +21,12 @@
                    </xsd:sequence>
                   <xsd:attribute name = "NearestAirport" type="xsd:string" use="required"/>
                 </xsd:complexType>
-
+              </xsd:element>
           </xsd:sequence>
           <xsd:attribute name = "Rating" type="xsd:float" use="optional"/>
         </xsd:complexType>
-
+      </xsd:element>
       </xsd:sequence>
     </xsd:complexType>
-
-</xsd:schema>
+  </xsd:element>
+</xsd:schema>>
